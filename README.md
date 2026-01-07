@@ -1,83 +1,74 @@
 # 👨‍💻 Sakthivel R
-## Data Engineer & MERN Stack Developer
+## Full Stack Developer & Cloud Engineer
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=500&lines=Data+Engineer;MERN+Stack+Developer;MCA+Student;React+Native+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;Cloud+Engineer;MERN+Stack;React+Native+Developer;MCA+Student" alt="Typing SVG" />
 </div>
 
 <p align="center">
   <a href="mailto:sakthivelravi9894@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/DeveloperSakthi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sakthivel-r-351478297"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/SakthivelRDev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/sakthivel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="tel:+919944077266"><img src="https://img.shields.io/badge/Phone-2C2C2C?style=for-the-badge&logo=phone&logoColor=white" /></a>
 </p>
 
 ## 📊 About Me
 
-> MCA student specializing in **Data Engineering** and **MERN Stack** development. Passionate about building data pipelines, creating scalable web applications, and transforming raw data into business intelligence. Experienced in React Native mobile development and always eager to learn new technologies.
+> Final-Year **MCA Student** specializing in **Full-Stack Web** and **Mobile App** development. Passionate about **Cloud Engineering** and **DevOps**, with hands-on experience deploying scalable applications on AWS. I enjoy bridging the gap between development and operations by building clean, role-based architectures and secure infrastructure.
 
-## 💼 Core Expertise
+## 💼 Work Experience
 
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <h3>🔢 Data Engineering</h3>
-        <ul>
-<!--           <li>ETL/ELT Pipeline Development</li>
-          <li>Data Warehousing Solutions</li>
-          <li>Big Data Processing</li>
-          <li>Data Modeling & Analysis</li> -->
-        </ul>
-      </td>
-      <td align="center">
-        <h3>🌐 Web Development</h3>
-        <ul>
-          <li>MongoDB & Mongoose</li>
-          <li>Express.js API Development</li>
-          <li>React Frontend Applications</li>
-          <li>Node.js Backend Services</li>
+      <td width="70%" align="center">
+        <h3>☁️ Cloud Engineer Intern</h3>
+        <h4>CubeAISolutions Tech Pvt Ltd, Bangalore</h4>
+        <p><i>June 2025 - Dec 2025</i></p>
+        <ul align="left">
+           <li>Deployed and managed cloud infrastructure for <b>8+ scalable projects</b> on AWS.</li>
+           <li>Utilized <b>Docker</b> and <b>Docker Compose</b> to containerize full-stack apps and AI models.</li>
+           <li>Configured <b>Nginx</b> reverse proxies and SSL for production-ready environments.</li>
         </ul>
       </td>
     </tr>
   </table>
 </div>
 
-<!-- ## 🚀 Projects
+## 🚀 Projects
 
 <table>
   <tr>
-    <td align="center">
-      <h3>Grad-Chat</h3>
-      <p>Mobile app designed to promote collaboration and communication within a specific community, allowing users to interact and exchange valuable insights.</p>
-      <p><b>Technologies:</b> React Native, JavaScript, Firebase</p>
+    <td align="center" width="50%">
+      <h3>📱 Trackin</h3>
+      <p>Mobile app designed to streamline employee attendance and leave management for businesses through a clean, role-based interface.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      </p>
     </td>
-    <td align="center">
-      <h3><a href="https://github.com/DeveloperSakthi/MobileShop-InventorySystem">Mobile Stock Management</a></h3>
-      <p>Web application for efficiently managing stock across two mobile shops, ensuring smooth inventory tracking with user role-based access control.</p>
-      <p><b>Technologies:</b> MERN Stack, JWT Authentication</p>
+    <td align="center" width="50%">
+      <h3>🌐 Mobile Stock Management</h3>
+      <p>Web application for efficiently managing stock across two mobile shops, ensuring smooth inventory tracking and secure user access control.</p>
+      <p>
+        <img src="https://img.shields.io/badge/MERN_Stack-000000?style=flat-square&logo=mongodb&logoColor=green" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+      </p>
     </td>
   </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <h3><a href="https://github.com/DeveloperSakthi/EmployeeManagement">Employee Management System</a></h3>
-      <p>System that handles employee data with CRUD operations, ensuring efficient management and secure storage of employee records.</p>
-      <p><b>Technologies:</b> Java, MySQL</p>
-    </td>
-  </tr>
-</table>-->
+</table>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <h3>Data Technologies</h3>
+  <h3>Cloud & DevOps</h3>
   <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </p>
-  
+
   <h3>Web & Mobile</h3>
   <p>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -86,12 +77,12 @@
     <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   </p>
   
-  <h3>Languages & Tools</h3>
+  <h3>Languages & Database</h3>
   <p>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   </p>
 </div>
 
@@ -100,20 +91,19 @@
 <div align="center">
   <table>
     <tr>
-      <td>
-        <h3>Awards</h3>
+      <td width="50%">
+        <h3>🏅 Achievements</h3>
         <ul>
-          <li>🥈 2nd Prize in Startup Mania 9.0 with "Agri Sphere" (₹20,000)</li>
-          <li>🥇 1st Place in Department Ideathon (₹5,000)</li>
+          <li>🥈 <b>2nd Prize in Startup Mania 9.0</b> - "Agri Sphere" (₹20,000)</li>
+          <li>🥇 <b>1st Place in Department Ideathon</b> (₹5,000)</li>
         </ul>
       </td>
-      <td>
-        <h3>Certifications</h3>
+      <td width="50%">
+        <h3>📜 Certifications</h3>
         <ul>
           <li>MongoDB Associate Developer Certification</li>
-          <li>Machine Learning Foundations (AWS Educate)</li>
-          <li>SQL Views (Infosys Springboard)</li>
-          <li>Introduction to AI & Deep Learning (Infosys)</li>
+          <li>Oracle APEX Cloud Developer Certified Professional</li>
+          <li>GitHub Foundations</li>
         </ul>
       </td>
     </tr>
@@ -136,25 +126,13 @@
       <td>Shanmuga Industries Arts and Science College</td>
       <td>CGPA: 7.497</td>
     </tr>
-    <tr>
-      <td><b>HSC</b></td>
-      <td>2021</td>
-      <td>Government Higher Secondary School, Kattampoondi</td>
-      <td>77.83%</td>
-    </tr>
-    <tr>
-      <td><b>SSLC</b></td>
-      <td>2019</td>
-      <td>Government Higher Secondary School, Kattampoondi</td>
-      <td>65.8%</td>
-    </tr>
   </table>
 </div>
 
 <div align="center">
-  <h2>💡 "Transforming raw data into business intelligence while building the interfaces that make it actionable" 💡</h2>
+  <h2>💡 "Building scalable applications and orchestrating secure cloud infrastructure" 💡</h2>
 </div>
 
 <div align="center">
-  <p>⚡ <b>Fun Fact:</b> I can architect a data pipeline and debug React Native components in the same afternoon!</p>
+  <p>⚡ <b>Fun Fact:</b> I can build a React Native app and containerize it with Docker in the same afternoon!</p>
 </div>
