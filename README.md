@@ -118,7 +118,7 @@
       <td><b>MCA</b></td>
       <td>Computer Applications</td>
       <td>Kongu Engineering College, Perundurai</td>
-      <td>Pursuing</td>
+      <td>CGPA: 7.74</td>
     </tr>
     <tr>
       <td><b>BSc</b></td>
