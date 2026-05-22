@@ -1,5 +1,5 @@
 # 👨‍💻 Sakthivel R
-## Full Stack Developer & Cloud Engineer
+## Full Stack Developer & Cloud & Devops Engineer
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;Cloud+Engineer;MERN+Stack;React+Native+Developer;MCA+Student" alt="Typing SVG" />
