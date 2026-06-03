@@ -1,8 +1,8 @@
 # 👨‍💻 Sakthivel R
-## Full Stack Developer & Cloud & Devops Engineer
+## Software Developer | Full Stack | Cloud & DevOps
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;Cloud+Engineer;MERN+Stack;React+Native+Developer;MCA+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Software+Developer+%40+Amdocs;Full+Stack+Developer;Cloud+%26+DevOps+Engineer;MERN+Stack+%7C+React+Native;MCA+Graduate" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## 📊 About Me
 
-> Final-Year **MCA Student** specializing in **Full-Stack Web** and **Mobile App** development. Passionate about **Cloud Engineering** and **DevOps**, with hands-on experience deploying scalable applications on AWS. I enjoy bridging the gap between development and operations by building clean, role-based architectures and secure infrastructure.
+> **Software Developer at Amdocs** (Full-time, Remote) with a background in **Full-Stack Web** and **Mobile App** development. Passionate about **Cloud Engineering** and **DevOps**, with hands-on experience deploying scalable applications on AWS. I enjoy bridging the gap between development and operations by building clean, role-based architectures and secure infrastructure.
 
 ## 💼 Work Experience
 
@@ -22,13 +22,35 @@
   <table>
     <tr>
       <td width="70%" align="center">
-        <h3>☁️ Cloud Engineer Intern</h3>
-        <h4>CubeAISolutions Tech Pvt Ltd, Bangalore</h4>
-        <p><i>June 2025 - Dec 2025</i></p>
+        <h3>💻 Software Developer</h3>
+        <h4>Amdocs · Full-time · Remote</h4>
+        <p><i>Jun 2026 – Present</i></p>
         <ul align="left">
-           <li>Deployed and managed cloud infrastructure for <b>8+ scalable projects</b> on AWS.</li>
-           <li>Utilized <b>Docker</b> and <b>Docker Compose</b> to containerize full-stack apps and AI models.</li>
-           <li>Configured <b>Nginx</b> reverse proxies and SSL for production-ready environments.</li>
+          <li>Working as a full-time Software Developer in a globally distributed remote environment.</li>
+          <li>Contributing to enterprise-scale software solutions in a dynamic technology organization.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td width="70%" align="center">
+        <h3>🏥 Associate Intern – IT Ops</h3>
+        <h4>ZoomRx Healthcare Technology Solutions Pvt. Ltd., Chennai · On-site</h4>
+        <p><i>Mar 2026 – Jun 2026</i></p>
+        <ul align="left">
+          <li>Supported IT operations for a healthcare technology company, working on cloud and infrastructure-related tasks.</li>
+          <li>Collaborated with cross-functional teams to ensure smooth deployment and maintenance of enterprise-grade systems.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td width="70%" align="center">
+        <h3>☁️ Cloud Engineer Intern</h3>
+        <h4>CubeAISolutions Tech Pvt Ltd, Bangalore · Hybrid</h4>
+        <p><i>Jun 2025 – Dec 2025</i></p>
+        <ul align="left">
+          <li>Deployed and managed cloud infrastructure for <b>8+ scalable projects</b> on AWS.</li>
+          <li>Utilized <b>Docker</b> and <b>Docker Compose</b> to containerize full-stack apps and AI models on AWS EC2 and ECS.</li>
+          <li>Configured <b>Nginx</b> reverse proxies and SSL for production-ready environments.</li>
         </ul>
       </td>
     </tr>
